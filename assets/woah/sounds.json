@@ -3,5 +3,10 @@
     "sounds": [
       "woah:horror"
 	]
+  },
+  "horror2": {
+    "sounds": [
+      "woah:horror2"
+	]
   }
 }
